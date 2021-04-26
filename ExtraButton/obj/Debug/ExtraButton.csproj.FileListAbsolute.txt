@@ -1,0 +1,8 @@
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\ExtraButton\obj\Debug\ExtraButton.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\ExtraButton\obj\Debug\ExtraButton.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\ExtraButton\bin\Debug\ExtraButton.dll
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\ExtraButton\bin\Debug\ExtraButton.pdb
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\ExtraButton\obj\Debug\ExtraButton.ExtraTextboxocska.resources
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\ExtraButton\obj\Debug\ExtraButton.csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\ExtraButton\obj\Debug\ExtraButton.dll
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\ExtraButton\obj\Debug\ExtraButton.pdb

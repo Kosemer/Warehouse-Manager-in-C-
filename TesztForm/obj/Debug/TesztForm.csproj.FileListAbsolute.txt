@@ -1,0 +1,10 @@
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\TesztForm\bin\Debug\TesztForm.exe.config
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\TesztForm\bin\Debug\TesztForm.exe
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\TesztForm\bin\Debug\TesztForm.pdb
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\TesztForm\obj\Debug\TesztForm.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\TesztForm\obj\Debug\TesztForm.Form1.resources
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\TesztForm\obj\Debug\TesztForm.Properties.Resources.resources
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\TesztForm\obj\Debug\TesztForm.csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\TesztForm\obj\Debug\TesztForm.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\TesztForm\obj\Debug\TesztForm.exe
+C:\Users\Adam\Desktop\Szakdoga mentések\2019.11.02.friss\SzakdogaBeleptetes\TesztForm\obj\Debug\TesztForm.pdb
