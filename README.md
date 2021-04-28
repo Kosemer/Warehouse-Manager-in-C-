@@ -223,6 +223,6 @@ Készítettem neki egyedi fejlécet, és az adatokat adatbázisból, vagy az ép
 
 Ide lehet minden olyan többlet terméket felvinni, amiket már a gyártásnál nem enged. Ha a **Cikkszám**-hoz beírjuk a megfelelő cikkszámot, akkor a hozzá tartozó mezőket automatikusan kitölti, ha pedig nem létező cikkszámot adunk meg, akkor azt jelzi a rendszer: 
 
-![Aspose Words a67e8c88-b5d4-437b-89ea-5fe8e503cfd4 026](https://user-images.githubusercontent.com/82768146/116380326-26e0a180-a814-11eb-88e0-95c2b5449176.jpeg)
+![Aspose Words a67e8c88-b5d4-437b-89ea-5fe8e503cfd4 023](https://user-images.githubusercontent.com/82768146/116384774-75903a80-a818-11eb-9045-573335f2c3d0.jpeg)
 
 A cikkszám megadása után ki kell választanunk, hogy melyik félkész szintjén akarunk bevételezni. A **Megőrzési idő**-t is meg kell adnunk, ennek három opciója van (3, 6, 12, hónap). Miután kiválasztottuk a nekünk megfelelőt, a program kiszámolja és kitölti a **Lejárat idejét**. Ha a Lejárat ideje kisebb lesz, mint az aktuális dátum, akkor a készletre vett termék sora a DataGridView-ba piros színűre változik. Ez azt jelenti, hogy a termék megőrzési ideje lejárt és selejtezhető. Selejtezni ugyanúgy tudunk, mint a **Készlet lekérdezésnél.**
