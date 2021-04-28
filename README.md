@@ -12,6 +12,7 @@
 - Ezután egy többszintű gyártást lehessen indítani rá.
 - A félkész szintek átvehetők legyenek adott raktárakba és ki is lehessen őket adni további felhasználásra.
 - Raktári tranzakció történet a teljes átláthatóság érdekében.
+- A raktári készlet exportálása .xls fájlba.
 - Selejtezés lehetősége.
 - Szállítási opció és szállítólevél készítése.
 - Maradék kezelés.
